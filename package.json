@@ -1,0 +1,24 @@
+{
+  "name": "instalaciones_emertel",
+  "version": "1.0.0",
+  "description": "Modulo de instalaciones Emertel SAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsalonl/instalaciones_emertel.git"
+  },
+  "author": "Salomón Nieto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsalonl/instalaciones_emertel/issues"
+  },
+  "homepage": "https://github.com/jsalonl/instalaciones_emertel#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0"
+  }
+}
